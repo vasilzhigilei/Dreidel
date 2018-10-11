@@ -1,0 +1,18 @@
+#pane{
+    -fx-background-image: url("whiteback.jpg");
+    -fx-background-repeat: stretch;   
+    -fx-background-size: 900 460;
+    -fx-background-position: center center;
+    -fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0); 
+}
+
+.button {
+	-fx-background-radius: 0; 
+	-fx-background-color: #cccccc; 
+	-fx-text-fill: #0038A8; 
+	-fx-font: 17 Ariel;
+}
+
+.button:hover {
+	-fx-background-color: #bfbfbf; 
+}
