@@ -6,7 +6,7 @@ Code updated to fix various bugs on October 8th, 2018
 
 The Game
 --------
-This game allows users to select the number of players, chips, and chip worth, and then simulate the traditional game of Dreidel on the their computers.
+This game allows users to select the number of players, chips, and chip worth, and then simulate the traditional game of Dreidel on their computers.
 
 ![Dreidel Sample](https://github.com/vasilzhigilei/dreidel/blob/master/dreidel/SampleGame.PNG)
 
